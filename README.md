@@ -44,9 +44,9 @@ mvn clean install
 
 ### Team Members
 
-| Number | Name          | GitHub                                    | Email                                          |
-|--------|---------------|-------------------------------------------|------------------------------------------------|
-| 98943  | João Amadeu   | [joaoafs](https://github.com/joaoafs)     | [Email](mailto:joaoamadeusantos@tecnico.ulisboa.pt) |
-| 102477 | Diogo Cadete  | [diogojcadete](https://github.com/diogojcadete) | [Email](mailto:diogojcadete@tecnico.ulisboa.pt)     |
-| 103845 | João Maia     | [Mr-Maia](https://github.com/Mr-Maia)     | [Email](mailto:joaomiguelmaia@tecnico.ulisboa.pt)   |
+| Name          | GitHub                                    | Email                                          |
+|---------------|-------------------------------------------|------------------------------------------------|
+| João Amadeu   | [joaoafs](https://github.com/joaoafs)     | [Email](mailto:joaoamadeusantos@tecnico.ulisboa.pt) |
+| Diogo Cadete  | [diogojcadete](https://github.com/diogojcadete) | [Email](mailto:diogojcadete@tecnico.ulisboa.pt)     |
+| João Maia     | [Mr-Maia](https://github.com/Mr-Maia)     | [Email](mailto:joaomiguelmaia@tecnico.ulisboa.pt)   |
 
