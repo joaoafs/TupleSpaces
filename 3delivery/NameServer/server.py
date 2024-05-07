@@ -1,3 +1,4 @@
+#python-file
 import sys
 
 sys.path.insert(1, '../Contract/target/generated-sources/protobuf/python')
